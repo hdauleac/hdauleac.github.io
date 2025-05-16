@@ -2,7 +2,7 @@ main:
   - name: Home
     url: /
     weight: 1
-  - name: Projects
+  - name: Projets
     url: /projects/
     weight: 2
     child:
@@ -26,12 +26,12 @@ main:
         icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: "Top layout"
         url: /projects/project-4/
-  - name: Blog
-    url: /blog/
-    weight: 2
-  - name: About
+  - name: À propos
     url: /about/
     weight: 3
+  - name: CV
+    url: /cv.pdf/
+    weight: 2
   - name: Contact
     url: /contact/
     weight: 4
