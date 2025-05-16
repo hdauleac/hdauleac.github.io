@@ -45,7 +45,7 @@ main:
         description: "Fiction"
         url: /projects/fiction-au-fil-du-mur/
   - name: CV
-    url: /cv.pdf/
+    url: /assets/cv.pdf
     weight: 3
   - name: Contact
     url: /contact/
