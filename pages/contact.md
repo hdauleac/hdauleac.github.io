@@ -1,5 +1,5 @@
 ---
 layout: contact
-title: Contact
+title: Formulaire de contact
 permalink: "/contact/"
 ---
