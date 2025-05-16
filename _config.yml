@@ -160,7 +160,7 @@ newsletter:
 
 contact_form: 
   use_netlify_form: false
-  use_formspree_form: false
+  use_formspree_form: yes
   formspree_endpoint: https://formspree.io/f/moqyklqv
   netlify_form_name: "contact"
 
