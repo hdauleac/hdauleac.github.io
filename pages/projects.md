@@ -1,10 +1,10 @@
 ---
-layout: projects
-title: Projects
-permalink: "/projects/"
+layout: projets
+title: projets
+permalink: "/projets/"
 
 projects:
-  heading: "" # "Projects"
+  heading: "Projets"
   sub_heading: "" # "A collection of our recent work"
   limit: 96
   sort: date # date | weight
