@@ -72,30 +72,30 @@ category_dir: category
 
 colors:
   #light-mode colors
-  primary_bg: "#e8e7e5"
-  primary_bg_2: "#e8e7e5"
-  primary_bg_3: "#e8e7e5"
-  primary_text: "#fdfcf9"
-  base_bg: "#fdfcf9"
+  primary_bg: "#030302"
+  primary_bg_2: "#030302"
+  primary_bg_3: "#030302"
+  primary_text: "#e8e7e5"
+  base_bg: "#e8e7e5"
   base_bg_2: "#f7f6ed"
   base_bg_3: "#faebd7"
-  base_text: "#e8e7e5"
+  base_text: "#030302"
   base_text_2: "#3b364c"
-  logo_text: "#e8e7e5"
-  header_text: "#e8e7e5"
+  logo_text: "#030302"
+  header_text: "#030302"
 
   # dark-mode colors
-  primary_bg_dark: "#fdfcf9"
-  primary_bg_2_dark: "#fdfcf9"
-  primary_bg_3_dark: "#fdfcf9"
+  primary_bg_dark: "#e8e7e5"
+  primary_bg_2_dark: "#e8e7e5"
+  primary_bg_3_dark: "#e8e7e5"
   primary_text_dark: "#0b0326"
   base_bg_dark: "#0b0326"
   base_bg_2_dark: "#150c32"
   base_bg_3_dark: "#251654"
   base_text_dark: "#f5f5ec"
   base_text_2_dark: "#929eaf"
-  logo_text_dark: "#fdfcf9"
-  header_text_dark: "#fdfcf9"
+  logo_text_dark: "#e8e7e5"
+  header_text_dark: "#e8e7e5"
 
 fonts:
   use_google_fonts: false
