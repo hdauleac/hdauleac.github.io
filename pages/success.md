@@ -5,4 +5,4 @@ layout: basic
 permalink: "/contact/success/"
 ---
 
-## Votre message a bien été transmis.
+## Votre message a bien été envoyé.
