@@ -1,10 +1,5 @@
 [
   {
-    "title": "Phone",
-    "fa_icon": "fas fa-phone",
-    "url": "tel:0695925718"
-  },
-  {
     "title": "Mail",
     "fa_icon": "fas fa-envelope",
     "url": "mailto:hdauleac@inasup.com"
