@@ -1,22 +1,22 @@
 [
   {
     "title": "Phone",
-    "fa_icon": "fab fa-phone",
+    "fa_icon": "fa-solid fa-phone",
     "url": "tel:0695925718"
   },
   {
     "title": "Mail",
-    "fa_icon": "fab fa-envelope",
+    "fa_icon": "fa-solid fa-envelope",
     "url": "mailto:hdauleac@inasup.com"
   },
   {
     "title": "LinkedIn",
-    "fa_icon": "fab fa-linkedin",
+    "fa_icon": "fa-brands fa-linkedin-in",
     "url": "https://www.linkedin.com/in/hdauleac"
   },
   {
     "title": "Vimeo",
-    "fa_icon": "fab fa-vimeo",
+    "fa_icon": "fa-brands fa-vimeo-v",
     "url": "https://vimeo.com/user215130177"
   }
 ]

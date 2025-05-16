@@ -9,11 +9,41 @@ main:
     url: /projects/
     weight: 3
     child:
-      - name: "Project Layout 1"
+      - name: "Calmez-vous Mademoiselle"
         icon: "/assets/images/icons/wireframe-7.svg"
         icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
-        description: "Default Project layout"
-        url: /projects/animation-le-mirage/
+        description: "Documentaire"
+        url: /projects/documentaire-calmez-vous-mademoiselle/
+      - name: "Self-Help"
+        icon: "/assets/images/icons/wireframe-7.svg"
+        icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
+        description: "Documentaire"
+        url: /projects/documentaire-self-help/
+      - name: "Le Taxidermiste"
+        icon: "/assets/images/icons/wireframe-7.svg"
+        icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
+        description: "Documentaire"
+        url: /projects/documentaire-le-taxidermiste/
+      - name: "Les filles de Romorantin"
+        icon: "/assets/images/icons/wireframe-7.svg"
+        icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
+        description: "Documentaire"
+        url: /projects/documentaire-les-filles-de-romorantin/
+      - name: "C'était mieux avant"
+        icon: "/assets/images/icons/wireframe-7.svg"
+        icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
+        description: "Fiction"
+        url: /projects/fiction-cetait-mieux-avant/
+      - name: "Le Mirage"
+        icon: "/assets/images/icons/wireframe-7.svg"
+        icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
+        description: "Fiction"
+        url: /projects/fiction-le-mirage/
+      - name: "Au fil du mur"
+        icon: "/assets/images/icons/wireframe-7.svg"
+        icon_darkmode: "/assets/images/icons/wireframe-7-white.svg"
+        description: "Fiction"
+        url: /projects/fiction-au-fil-du-mur/
   - name: CV
     url: /cv.pdf/
     weight: 3
