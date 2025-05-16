@@ -27,7 +27,7 @@ body_classes: page-project
 
         {% if page.date %}
           <div class="project-date">
-            <strong>Date </strong><span>{{ page.date }}</span>
+            <strong>Date </strong><span>{{ page.date | date: "%Y" }}</span>
           </div>
         {% endif %}
 
