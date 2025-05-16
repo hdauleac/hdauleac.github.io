@@ -77,8 +77,8 @@ colors:
   primary_bg_3: "#030302"
   primary_text: "#e8e7e5"
   base_bg: "#e8e7e5"
-  base_bg_2: "#f2efe9"
-  base_bg_3: "#f2e6ce"
+  base_bg_2: "#d4d3d1"
+  base_bg_3: "#c0bfbd"
   base_text: "#030302"
   base_text_2: "#4c4c4c"
   logo_text: "#030302"
@@ -90,8 +90,8 @@ colors:
   primary_bg_3_dark: "#e8e7e5"
   primary_text_dark: "#030302"
   base_bg_dark: "#030302"
-  base_bg_2_dark: "#333324"
-  base_bg_3_dark: "#4c4c36"
+  base_bg_2_dark: "#141414"
+  base_bg_3_dark: "#282828"
   base_text_dark: "#f5f5ec"
   base_text_2_dark: "#929eaf"
   logo_text_dark: "#e8e7e5"
@@ -155,8 +155,8 @@ comments:
 
 newsletter:
   mailchimp:
-    form_action_url: https://zerostatic.us21.list-manage.com/subscribe/post?u=798e19886b83aaab346734382&amp;id=f1c526a772&amp;f_id=0027e3e6f0
-    form_title: "Let's keep in touch"
+    form_action_url: 
+    form_title: ""
 
 contact_form: 
   use_netlify_form: false
@@ -186,4 +186,3 @@ bottom:
   enable_bottom_menu: false # if enabled, the bottom menu can be edited in `_data/menu.yml`
   copyright_text: "© 2021 Zerostatic Themes"
   show_rss_icon: true
-  
