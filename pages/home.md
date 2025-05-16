@@ -2,7 +2,7 @@
 layout: home
 permalink: "/"
 title: "Héloïse Dauleac"
-description: "Production audiovisuelle"
+description: ""
 meta_description: "Héloïse Dauleac"
 meta_title: Héloïse Dauleac
 subscribe: false
