@@ -3,7 +3,7 @@ layout: project-left
 title: "Au fil du mur"
 description: "Fiction"
 date: 2023-01-01
-weight: 3
+weight: 2
 thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-1-2.webp"
 categories: ["Fiction"]

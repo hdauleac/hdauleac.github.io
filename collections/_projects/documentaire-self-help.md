@@ -3,7 +3,7 @@ layout: project
 title: "Self-Help"
 description: "Documentaire"
 date: 2025-01-01
-weight: 1
+weight: 3
 thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-1-2.webp"
 categories: ["Documentaire"]
