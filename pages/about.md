@@ -1,9 +1,9 @@
 ---
 layout: basic
-title: "À propos"
+title: "À propos de moi"
 date: 2018-11-28T15:15:34+10:00
 permalink: "/about/"
-description: "À propos"
+description: ""
 image: "/assets/images/gen/content/content-5.webp"
 ---
 
@@ -21,7 +21,7 @@ Ce parcours m’a permis de développer une approche rigoureuse et analytique, q
 
 Dans le cadre du master de Production audiovisuelle, j’ai développé des connaissances en suivi budgétaire des projets, depuis l’estimation initiale des coûts jusqu’au suivi administratif. J’ai également développé des compétences me permettant de maîtriser les enjeux juridiques et financiers spécifiques à la production audiovisuelle.
 
-## Engagement associatif
+# Engagement associatif
 
 Je suis également investie en tant que responsable du pôle Production de l’association Ciné-Œil à l’Université Gustave Eiffel. Cette activité associative, au cours de laquelle j’ai eu l’occasion d’accompagner plusieurs projets de courts métrages, confirme ma vocation pour ce métier. J’ai pu y accompagner des films à différentes étapes : de l’élaboration des dossiers de financement à la coordination d’équipe, en passant par le suivi de production. 
 
