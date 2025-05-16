@@ -7,7 +7,7 @@ weight: 1
 thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-1-2.webp"
 categories: ["Fiction"]
-client: "Projet"
+client: "En projet"
 role: "Chargée de développement"
 gallery:
   - image: "/assets/images/gen/projects/project-1-1.webp"
