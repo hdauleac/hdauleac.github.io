@@ -1,5 +1,5 @@
 main:
-  - name: Home
+  - name: Accueil
     url: /
     weight: 1
   - name: À propos
