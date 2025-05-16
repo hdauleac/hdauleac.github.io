@@ -2,7 +2,7 @@
 layout: home
 permalink: "/"
 title: "Héloïse Dauleac"
-description: "..."
+description: "Production audiovisuelle"
 meta_description: "Héloïse Dauleac"
 meta_title: Héloïse Dauleac
 subscribe: false
@@ -17,7 +17,7 @@ projects:
   columns: 2 # 1 | 2 | 3 | 4
 
 posts:
-  heading: "Recent Posts"
+  heading: "Critiques de films et séries"
   sub_heading: ""
   limit: 3
   sort: weight # date | weight
